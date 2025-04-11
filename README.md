@@ -2,7 +2,7 @@
 ### Register no: 212223240118
 ### Date: 24.03.2025
 ### Experiment No. 2 
-## Implementation of Perceptron for Binary Classification
+# Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
 
@@ -120,6 +120,8 @@ plt.show()
 # OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/d99d4a1f-282e-4344-bc8a-dee7ffce03b1)
+
+
 ![image](https://github.com/user-attachments/assets/75e569d2-5a00-46e6-a596-9a6c93d5a7bb)
 
 # RESULT:
